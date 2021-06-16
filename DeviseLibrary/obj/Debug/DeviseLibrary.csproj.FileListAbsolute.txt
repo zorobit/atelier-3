@@ -1,0 +1,11 @@
+C:\Users\dell\Desktop\DeviseLibrary\DeviseLibrary\bin\Debug\DeviseLibrary.dll
+C:\Users\dell\Desktop\DeviseLibrary\DeviseLibrary\bin\Debug\DeviseLibrary.pdb
+C:\Users\dell\Desktop\DeviseLibrary\DeviseLibrary\obj\Debug\DeviseLibrary.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\DeviseLibrary\DeviseLibrary\obj\Debug\DeviseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\DeviseLibrary\DeviseLibrary\obj\Debug\DeviseLibrary.dll
+C:\Users\dell\Desktop\DeviseLibrary\DeviseLibrary\obj\Debug\DeviseLibrary.pdb
+E:\DeviseLibrary\DeviseLibrary\bin\Debug\DeviseLibrary.dll
+E:\DeviseLibrary\DeviseLibrary\bin\Debug\DeviseLibrary.pdb
+E:\DeviseLibrary\DeviseLibrary\obj\Debug\DeviseLibrary.csproj.CoreCompileInputs.cache
+E:\DeviseLibrary\DeviseLibrary\obj\Debug\DeviseLibrary.dll
+E:\DeviseLibrary\DeviseLibrary\obj\Debug\DeviseLibrary.pdb
